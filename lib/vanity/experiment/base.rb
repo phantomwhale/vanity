@@ -68,7 +68,7 @@ module Vanity
       end
 
       # Defines how we obtain an identity for the current experiment. Usually
-      # Vanity gets the identity form a session object (see use_vanity), but
+      # Vanity gets the identity from a session object (see use_vanity), but
       # there are cases where you want a particular experiment to use a
       # different identity.
       #
